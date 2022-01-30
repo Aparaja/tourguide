@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="slogan_name">We will help u find your way!!</string>
+    <string name="powered_by">Powered By SMJ and ATKB</string>
+
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit back And Enjoy</string>
+
+    <string name="first_slide_desc">You can search any place nearby of your wish!!..</string>
+    <string name="second_slide_desc">We provide u the option of making a call!!..</string>
+    <string name="third_slide_desc">If any places are missing u can add them…</string>
+    <string name="fourth_slide_desc">We will handle everything for you…</string>
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <string name="todo">todo</string>
+
+
+    <!--Strings fot the dashboard-->
+
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shops">shops</string>
+    <string name="education">Education</string>
+
+    <!--titles and description-->
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_location_description">All the locations that are featured and have the top demand in the city!</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+    <string name="mcdonald_s">McDonald\'s</string>
+    <string name="dskfkjfbfdgn_sgsghit">dskfkjfbfdgn sgsghit</string>
+    <string name="todoo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="Todo">TODO</string>
+
+</resources>
